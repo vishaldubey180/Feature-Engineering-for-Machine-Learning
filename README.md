@@ -6,9 +6,28 @@ In this repository, you will learn how to engineer features and build more power
 
 ![Python 3.8](https://camo.githubusercontent.com/1457395ccb343d919cbb9d7ad8d2523fdd639d67d9048a035d34cda214fbdf76/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f707974686f6e2d332e382d737563636573732e737667)
   
-## Screenshots
+## 
 
 ![Screenshots](https://github.com/vishaldubey180/Feature-Engineering-for-Machine-Learning/blob/main/download.png)
+
+  
+# Hi, I'm Vishal Dubey! 👋
+
+  
+## 🚀 About Me
+I'm an Analyst...
+
+
+
+  
+## 🛠 Skills
+Machine Learning , Python,Numpy,Pandas,Feature Engineering, Matplotlib, Seaborn, Data Analysis, ...
+
+  
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.smartr.me/public/profiles/vishal.dubey210/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishal-dubey-b944791a7/)
+
 
   
 ## Table of Contents
@@ -16,7 +35,7 @@ In this repository, you will learn how to engineer features and build more power
 What You will learn from this ? 
 
   
-1.Introduction: Variable Types
+### 1. Introduction: Variable Types
 
 -->  Numerical Variables: Discrete and continuous
 
@@ -26,7 +45,7 @@ What You will learn from this ?
 
 -->  Mixed variables: strings and numbers
     
-2. Variable Characteristics
+### 2. Variable Characteristics
 
 --> Missing Data
 
@@ -40,7 +59,7 @@ What You will learn from this ?
 
 --> Magnitude
 
-3. Missing Data Imputation
+### 3. Missing Data Imputation
 
 
 
@@ -63,12 +82,12 @@ What You will learn from this ?
 
 --> Imputation with Feature-engine
 
-4. Multivariate Imputation
+### 4. Multivariate Imputation
 
 --> MICE
 
 
-5. Categorical Variable Encoding
+### 5. Categorical Variable Encoding
 
 --> One hot encoding: simple and of frequent categories
 
@@ -89,7 +108,7 @@ What You will learn from this ?
 --> Encoding with category encoders
 
 
-6. Variable Transformation
+### 6. Variable Transformation
 
 --> Log, power and reciprocal
 
@@ -102,7 +121,7 @@ What You will learn from this ?
 --> Transformation with Feature-engine
 
 
-7. Discretisation
+### 7. Discretisation
 
 --> Arbitrary
 
@@ -119,14 +138,14 @@ What You will learn from this ?
 --> Discretisation with Feature-engine
 
 
-8. Outliers
+### 8. Outliers
 
 --> Capping
 
 --> Trimming
 
 
-9. Feature Scaling
+### 9. Feature Scaling
 
 --> Standardisation
 
@@ -136,12 +155,12 @@ What You will learn from this ?
 
 --> RobustScaling
 
-10. Mixed variables
+### 10. Mixed variables
 
 --> Creating new variables from strings and numbers
 
 
-11. Datetime
+### 11. Datetime
 
 --> Extracting day, month, week, etc
 
@@ -152,29 +171,10 @@ What You will learn from this ?
 --> Working with timezones
 
 
-12. Pipelines
+### 12. Pipelines
 
 --> Classification Pipeline
 
 --> Regression Pipeline
 
 --> Pipeline with cross-validation
-## 🚀 About Me
-I'm an Analyst...
-
-
-
-  
-# Hi, I'm Vishal Dubey! 👋
-
-  
-## 🛠 Skills
-Machine Learning , Python,Numpy,Pandas,Feature Engineering, Matplotlib, Seaborn, Data Analysis, ...
-
-  
-## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.smartr.me/public/profiles/vishal.dubey210/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishal-dubey-b944791a7/)
-
-
-  
