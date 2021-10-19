@@ -11,14 +11,6 @@ In this repository, you will learn how to engineer features and build more power
 ![Screenshots](https://github.com/vishaldubey180/Feature-Engineering-for-Machine-Learning/blob/main/download.png)
 
   
-## Features
-
-- Light/dark mode toggle
-- Live previews
-- Fullscreen mode
-- Cross platform
-
-  
 ## Table of Contents
 
 What You will learn from this ? 
